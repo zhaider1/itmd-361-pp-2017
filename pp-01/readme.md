@@ -7,6 +7,9 @@ remote GitHub repository. Follow the steps below exactly to receive full credit.
    https://github.com/profstolley/itmd-361-pp-2017 and click the Fork button. You will then see
    that you have forked the Production Problems repository from `profstolley/itmd-361-pp-2017`
 
+   To confirm that you’ve done this correctly, you should see your GitHub account listed on this
+   page once you’ve forked: https://github.com/profstolley/itmd-361-pp-2017/network/members
+
 2. Once you have forked your own copy of the repository, go to your command line and change to
    whichever directory that you’ve decided you will keep all of your different Git repositories. I
    recommend having in your home directory a `Projects` directory, with subdirectories there for

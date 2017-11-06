@@ -56,5 +56,9 @@ function addTwo(x) {
   return x;
 }
 
+// answer: it is because the code is written so that it is treated as two different x variables.
+// one is only for the addTwo function, while the other is the global x, so only the
+// addTwo x will change
+
 console.log(addTwo(4)); // 6
 console.log(x); // should be 5 if you corrected the double() function above

@@ -8,3 +8,8 @@ function ringDoorbell() {
 $('#doorbell-ring').on('click',function() {
   ringDoorbell();
 })
+$(document).on('keypress', function(event) {
+  if (event.key == "d") {
+    ringDoorbell();
+  }
+});
